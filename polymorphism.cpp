@@ -5,7 +5,7 @@
 // {
 //   private:
 //   float height,width,length;
-//   public:
+//   public: 
 //   shape()
 //   {
 //     height=0;
